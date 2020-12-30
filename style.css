@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+#start, #number, #status{
+    font-size: 18px;
+}
+.copy{
+    position: fixed;
+    background-color: rgb(70, 69, 69);
+    color: White;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(250, 246, 246);
+}
